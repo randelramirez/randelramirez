@@ -1,3 +1,5 @@
+## Hi I'm Randel 
+
 
 .NET: C#, ASP.NET, Blazor, Entity Framework <br>
 JavaScript: TypeScript, React, Node.js, Express <br>
