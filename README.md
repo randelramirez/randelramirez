@@ -17,7 +17,6 @@ I build robust backend systems with C#, ASP.NET, and Entity Framework while crea
 ![Entity Framework](https://img.shields.io/badge/Entity_Framework-%23013243.svg?style=for-the-badge&logo=.net&logoColor=white)
 
 ### JavaScript
-### JavaScript
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
