@@ -1,4 +1,4 @@
-## Hi, I'm Randel  😎🧑‍💻
+## Hi, I'm Randel 🧑‍💻
 
 I'm a versatile Full-stack Software Engineer with expertise spanning both .NET and JavaScript ecosystems. My approach to development follows a pragmatic philosophy: 
 
