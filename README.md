@@ -1,6 +1,10 @@
 ## Hi, I'm Randel
 
-I'm a versatile full-stack software engineer with expertise spanning both .NET and JavaScript ecosystems. My approach to development follows a pragmatic philosophy: ```first make it work, then refine it into elegant code, and finally optimize for performance```. I build robust backend systems with C#, ASP.NET, and Entity Framework while creating responsive front-end experiences using React, TypeScript, and modern JavaScript frameworks. This balanced tech stack allows me to deliver complete, polished solutions from database to user interface, with a keen eye for both functionality and code quality.
+I'm a versatile full-stack software engineer with expertise spanning both .NET and JavaScript ecosystems. My approach to development follows a pragmatic philosophy: 
+
+> **"First make it work, then refactor and make it beautiful, and finally optimize for performance"**
+
+I build robust backend systems with C#, ASP.NET, and Entity Framework while creating responsive front-end experiences using React, TypeScript, and modern JavaScript frameworks.
 
 
 ## Tech Stack
